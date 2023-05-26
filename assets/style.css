@@ -1,0 +1,57 @@
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ h1 {
+   color: red;
+ }
+
+ header, main {
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+ }
+ 
+
+
+ .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+ }
+
+.developers {
+    background-color: rgb(25, 25, 143);
+width: 400px;
+height: 100px;
+color: white;
+float: left;
+margin:10px ;
+
+}
+
+img { 
+    float: left;
+    width: 100px;
+    padding-right: 20px;  
+}
+
+h2 {
+   color: white;
+ margin: 0px;
+ margin-bottom:15px ;
+  
+}
+
+
+ 
+.email {
+   color: rgb(62, 165, 233);
+   font-size: bold;
+} 
+
+.developers p{
+   margin: 0px;
+   margin-bottom: 10px;
+}
