@@ -22,7 +22,7 @@
  }
 
 .developers {
-    background-color: rgb(25, 25, 143);
+    background-color: #0F0E17;
 width: 400px;
 height: 100px;
 color: white;
@@ -41,6 +41,7 @@ h2 {
    color: white;
  margin: 0px;
  margin-bottom:15px ;
+ text-align: left;
   
 }
 
@@ -54,4 +55,6 @@ h2 {
 .developers p{
    margin: 0px;
    margin-bottom: 10px;
+   margin-left: 0px ;
+   text-align: left;
 }
