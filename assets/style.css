@@ -24,7 +24,6 @@
 .developers {
     background-color: #0F0E17;
 width: 400px;
-height: 100px;
 color: white;
 float: left;
 margin:10px ;
@@ -42,7 +41,7 @@ h2 {
  margin: 0px;
  margin-bottom:15px ;
  text-align: left;
-  
+ font-size: 1em;  
 }
 
 
